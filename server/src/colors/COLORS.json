@@ -1,0 +1,66 @@
+[
+  {
+    "name": "red",
+    "votes": 0,
+    "id": 0,
+    "HEX": "#ff0000",
+    "width": 0,
+    "reset": "true"
+  },
+  {
+    "name": "blue",
+    "votes": 0,
+    "id": 1,
+    "HEX": "#0045ff",
+    "width": 0,
+    "reset": "true"
+  },
+  {
+    "name": "green",
+    "votes": 0,
+    "id": 2,
+    "HEX": "#007f00",
+    "width": 0,
+    "reset": "true"
+  },
+  {
+    "name": "yellow",
+    "votes": 0,
+    "id": 3,
+    "HEX": "#fff900",
+    "width": 0,
+    "reset": "true"
+  },
+  {
+    "name": "grey",
+    "votes": 0,
+    "id": 4,
+    "HEX": "#808080",
+    "width": 0,
+    "reset": "true"
+  },
+  {
+    "name": "orange",
+    "votes": 0,
+    "id": 5,
+    "HEX": "#ff9b00",
+    "width": 0,
+    "reset": "true"
+  },
+  {
+    "name": "pink",
+    "votes": 0,
+    "id": 6,
+    "HEX": "#ffbdcb",
+    "width": 0,
+    "reset": "true"
+  },
+  {
+    "name": "purple",
+    "votes": 0,
+    "id": 7,
+    "HEX": "#b91224",
+    "width": 0,
+    "reset": "true"
+  }
+]
